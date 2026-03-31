@@ -1,0 +1,11 @@
+C:\Users\helge12\Desktop\c#\Modul3\ErsteLibary\bin\Debug\net10.0\ErsteLibary.deps.json
+C:\Users\helge12\Desktop\c#\Modul3\ErsteLibary\bin\Debug\net10.0\ErsteLibary.dll
+C:\Users\helge12\Desktop\c#\Modul3\ErsteLibary\bin\Debug\net10.0\ErsteLibary.pdb
+C:\Users\helge12\Desktop\c#\Modul3\ErsteLibary\obj\Debug\net10.0\ErsteLibary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helge12\Desktop\c#\Modul3\ErsteLibary\obj\Debug\net10.0\ErsteLibary.AssemblyInfoInputs.cache
+C:\Users\helge12\Desktop\c#\Modul3\ErsteLibary\obj\Debug\net10.0\ErsteLibary.AssemblyInfo.cs
+C:\Users\helge12\Desktop\c#\Modul3\ErsteLibary\obj\Debug\net10.0\ErsteLibary.csproj.CoreCompileInputs.cache
+C:\Users\helge12\Desktop\c#\Modul3\ErsteLibary\obj\Debug\net10.0\ErsteLibary.dll
+C:\Users\helge12\Desktop\c#\Modul3\ErsteLibary\obj\Debug\net10.0\refint\ErsteLibary.dll
+C:\Users\helge12\Desktop\c#\Modul3\ErsteLibary\obj\Debug\net10.0\ErsteLibary.pdb
+C:\Users\helge12\Desktop\c#\Modul3\ErsteLibary\obj\Debug\net10.0\ref\ErsteLibary.dll
