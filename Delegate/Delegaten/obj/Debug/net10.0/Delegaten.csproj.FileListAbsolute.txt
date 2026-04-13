@@ -1,0 +1,15 @@
+C:\Users\helge12\Desktop\c#\Modul3\Delegate\Delegaten\bin\Debug\net10.0\Delegaten.exe
+C:\Users\helge12\Desktop\c#\Modul3\Delegate\Delegaten\bin\Debug\net10.0\Delegaten.deps.json
+C:\Users\helge12\Desktop\c#\Modul3\Delegate\Delegaten\bin\Debug\net10.0\Delegaten.runtimeconfig.json
+C:\Users\helge12\Desktop\c#\Modul3\Delegate\Delegaten\bin\Debug\net10.0\Delegaten.dll
+C:\Users\helge12\Desktop\c#\Modul3\Delegate\Delegaten\bin\Debug\net10.0\Delegaten.pdb
+C:\Users\helge12\Desktop\c#\Modul3\Delegate\Delegaten\obj\Debug\net10.0\Delegaten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helge12\Desktop\c#\Modul3\Delegate\Delegaten\obj\Debug\net10.0\Delegaten.AssemblyInfoInputs.cache
+C:\Users\helge12\Desktop\c#\Modul3\Delegate\Delegaten\obj\Debug\net10.0\Delegaten.AssemblyInfo.cs
+C:\Users\helge12\Desktop\c#\Modul3\Delegate\Delegaten\obj\Debug\net10.0\Delegaten.csproj.CoreCompileInputs.cache
+C:\Users\helge12\Desktop\c#\Modul3\Delegate\Delegaten\obj\Debug\net10.0\Delegaten.sourcelink.json
+C:\Users\helge12\Desktop\c#\Modul3\Delegate\Delegaten\obj\Debug\net10.0\Delegaten.dll
+C:\Users\helge12\Desktop\c#\Modul3\Delegate\Delegaten\obj\Debug\net10.0\refint\Delegaten.dll
+C:\Users\helge12\Desktop\c#\Modul3\Delegate\Delegaten\obj\Debug\net10.0\Delegaten.pdb
+C:\Users\helge12\Desktop\c#\Modul3\Delegate\Delegaten\obj\Debug\net10.0\Delegaten.genruntimeconfig.cache
+C:\Users\helge12\Desktop\c#\Modul3\Delegate\Delegaten\obj\Debug\net10.0\ref\Delegaten.dll
