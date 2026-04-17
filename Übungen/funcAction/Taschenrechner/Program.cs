@@ -22,8 +22,14 @@ namespace Taschenrechner
         }
         static double addieren(double a,double b) => a + b;
         static double subtrahieren(double a, double b) => a - b;
+                    static double dividieren(double a, double b)
+                    {
+                    if (b == 0)
+                    throw new DivideByZeroException("Division durch 0 ist nicht erlaubt.");
+
+                    return a / b;
+                    }
         static double multiplizieren(double a, double b) => a * b;
-        static double dividieren(double a, double b) => b == 0 ? 0 : a / b;
 
         public static void Berrechne(RechenOperationen operation,double a,double b )
         {
