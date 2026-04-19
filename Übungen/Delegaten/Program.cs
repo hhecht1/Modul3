@@ -5,14 +5,7 @@ namespace Delegaten
     {
         delegate double Rechner(double a,double b);
         
-            public static void Main(string[] args)
-        {
-            Berechne(5.0, 3.0, Addiere);
-            Berechne(5.0, 3.0, Subtrahiere);
-            Berechne(5.0, 3.0, Multipliziere);
-            Berechne(5.0, 3.0, Dividiere);
-            Console.ReadLine();
-        }
+      
 
         public static double Addiere(double a, double b)
         {
@@ -40,5 +33,14 @@ namespace Delegaten
             Console.WriteLine($"Das Ergebnis der Operation ist: {ergebnis}");
         }
         
+    
+          public static void Main(string[] args)
+        {
+            Berechne(5.0, 3.0, Addiere);
+            Berechne(5.0, 3.0, Subtrahiere);
+            Berechne(5.0, 3.0, Multipliziere);
+            Berechne(5.0, 3.0, Dividiere);
+            Console.ReadLine();
+        }
     }
 }
