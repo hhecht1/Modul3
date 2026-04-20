@@ -19,9 +19,18 @@ namespace Taschenrechner
 
 
             Console.WriteLine("Bitte erste Zahl eingeben:");
-            decimal a = decimal.Parse(Console.ReadLine());
+            if (!decimal.TryParse(Console.ReadLine(), out decimal a))
+            {
+                Console.WriteLine("Ungültige Eingabe. Bitte eine gültige Zahl eingeben.");
+                return;
+            }   
+
             Console.WriteLine("Bitte zweite Zahl eingeben:");
-            decimal b =decimal.Parse(Console.ReadLine());
+            if (!decimal.TryParse(Console.ReadLine(), out decimal b))
+            {
+                Console.WriteLine("Ungültige Eingabe. Bitte eine gültige Zahl eingeben.");
+                return;
+            }
 
             Console.WriteLine("Bitte Operation eingeben (+, -, *, /):");
             string eingabe = Console.ReadLine();
