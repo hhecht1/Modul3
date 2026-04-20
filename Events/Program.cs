@@ -45,13 +45,19 @@ public class BarMitDrink
     public void RundeAusgeben(Drink drink)
     {
         // Kategorie anhand des Getränks bestimmen
-        DrinkCategory category = drink switch
-        {
-            Drink.Beer or Drink.Wine or Drink.Whiskey => DrinkCategory.Alcoholic,
-            _ => DrinkCategory.NonAlcoholic
-        };
+        
+if (drink == Drink.Beer || drink == Drink.Wine || drink == Drink.Whiskey)
+{
+    category = DrinkCategory.Alcoholic;
+}
+else
+{
+    category = DrinkCategory.NonAlcoholic;
+}
 
-        // Event auslösen
+
+        // Event auslösen durch Invoke wird die Methode aufgerufen, die das Event auslöst. Es übergibt den Sender (this) und die EventArgs (DrinkEventArgs).
+        // sie wird nur ausgeführt wenn Einerunde Ausgeben nicht null ist und es Abonnenten gibt, die auf das Event reagieren.
         EsWirdEineRundeAusgegeben?.Invoke(
             this,
             new DrinkEventArgs(drink, category)
@@ -94,7 +100,7 @@ class Program
 
         var besucher1 = new Person { Name = "Dalis" };
         var besucher2 = new Person { Name = "Lama" };
-        
+
 
         besucher1.Eintreten(bar);
         besucher2.Eintreten(bar);
