@@ -1,41 +1,57 @@
 ﻿using System;
 
-
 namespace Taschenrechner
 {
-    public delegate double RechenOperationen(double a, double b);
-
-    public class Programm
+    class Taschenrechner
     {
-        public static void Main(string[] args)
+        public static decimal Berechne(decimal a,decimal b,Func<decimal, decimal, decimal> operation)
         {
-            RechenOperationen add = new RechenOperationen(addieren);
-            RechenOperationen sub = new RechenOperationen(subtrahieren);
-            RechenOperationen mul = new RechenOperationen(multiplizieren);
-            RechenOperationen div = new RechenOperationen(dividieren);
-            
-
-            Berrechne(add, 5, 3);
-            Berrechne(sub, 5, 3);
-            Berrechne(mul, 5, 3);
-            Berrechne(div, 5, 3);
+            return operation(a, b);
         }
-        static double addieren(double a,double b) => a + b;
-        static double subtrahieren(double a, double b) => a - b;
-                    static double dividieren(double a, double b)
-                    {
-                    if (b == 0)
-                    throw new DivideByZeroException("Division durch 0 ist nicht erlaubt.");
+    
 
-                    return a / b;
-                    }
-        static double multiplizieren(double a, double b) => a * b;
-
-        public static void Berrechne(RechenOperationen operation,double a,double b )
+    public static void Main()
         {
-            double ergebnis = operation(a, b);
-            Console.WriteLine($"Das Ergebnis der Operation ist: {ergebnis}");
+            Func<decimal,decimal,decimal> addieren =(x,y) => x+y;
+            Func<decimal, decimal, decimal> subtrahieren = (x, y) => x - y;
+            Func<decimal, decimal, decimal> multiplizieren = (x, y) => x * y;
+            Func<decimal, decimal, decimal> dividieren = (x, y) => y != 0 ? x / y : throw new DivideByZeroException("Division durch Null ist nicht erlaubt.");
+
+
+            Console.WriteLine("Bitte erste Zahl eingeben:");
+            decimal a = decimal.Parse(Console.ReadLine());
+            Console.WriteLine("Bitte zweite Zahl eingeben:");
+            decimal b =decimal.Parse(Console.ReadLine());
+
+            Console.WriteLine("Bitte Operation eingeben (+, -, *, /):");
+            string eingabe = Console.ReadLine();
+
+            Func<decimal, decimal, decimal> operation;    
+
+            switch (eingabe)
+            {
+                case "+":
+                operation = addieren;
+                break;
+                case "-":
+                operation = subtrahieren;
+                break;
+                case "*":
+                operation = multiplizieren;
+                break;
+                case "/":
+                operation = dividieren;
+                break;
+                default:
+                throw new InvalidOperationException("Ungültige Operation.");
+            }
+           
+            decimal ergebnis = Berechne(a, b, operation);
+            Console.WriteLine("Ergebnis: " + ergebnis);
         }
+
+        
 
     }
 }
+        
