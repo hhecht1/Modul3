@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ErsteLibary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8276b308215b9cf18936ddc73757c63396b52754")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bc8772e66647264ed72ef00d53ff856283037a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ErsteLibary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ErsteLibary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
