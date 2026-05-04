@@ -49,17 +49,17 @@ namespace Bücherliste
                 foreach(var iteminner in item)
                 {
 
-                    Console.WriteLine("\t" + iteminner.Erscheinungsjahr + " : " + iteminner.Titel +  " => " + iteminner.Autor);
+                    Console.WriteLine("\t" + iteminner.Erscheinungsjahr + " : " + iteminner.Titel +  " => " + iteminner.Autor + " => Seitenanzahl: " + iteminner.Seiten);
                 } 
             }
             Console.WriteLine("\n\n\n");
             Console.WriteLine();
-            Console.WriteLine("++++++++++++++++++++++++++++++++++++++++");
+            Console.WriteLine("#########  Sortierung #########");
             Console.WriteLine("#########  Filterfunktion #########");
 
             Console.WriteLine("Bitte geben Sie ein Stichwort ein, um die Bücher zu filtern:");
-            string stichwort = Console.ReadLine();
-            var result2 =bücherliste.Where(x => x.Beschreibung.Contains(stichwort));
+            string stichwort = Console.ReadLine().ToUpper();
+            var result2 =bücherliste.Where(x =>  x.Beschreibung.ToUpper().Contains(stichwort) || x.Titel.ToUpper().Contains(stichwort));
             Console.WriteLine("\n");
             Console.WriteLine($"\nBücher, die das Stichwort '{stichwort}' in ihrer Beschreibung enthalten:\n");
             foreach(var item in result2)            {

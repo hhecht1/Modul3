@@ -1,1 +1,632 @@
-[{"Titel":"Politeia","Autor":"Platon","Preis":12.99,"Erscheinungsjahr":-370,"Seiten":320,"Beschreibung":"Platon entwirft einen idealen Staat, regiert von Philosophen. Er untersucht Gerechtigkeit und die Seele. Ein Grundwerk der politischen Philosophie."},{"Titel":"Nikomachische Ethik","Autor":"Aristoteles","Preis":14.50,"Erscheinungsjahr":-350,"Seiten":380,"Beschreibung":"Aristoteles definiert das gute Leben als tugendhaftes Handeln. Das Ziel ist das Gl\u00FCck (Eudaimonia). Ein Klassiker der Tugendethik."},{"Titel":"Meditationen \u00FCber die Erste Philosophie","Autor":"Ren\u00E9 Descartes","Preis":9.95,"Erscheinungsjahr":1641,"Seiten":120,"Beschreibung":"Descartes zweifelt an allem, um sicheres Wissen zu finden. Er begr\u00FCndet das Ich durch \u0027Ich denke, also bin ich\u0027. Fundament der modernen Philosophie."},{"Titel":"Leviathan","Autor":"Thomas Hobbes","Preis":16.00,"Erscheinungsjahr":1651,"Seiten":540,"Beschreibung":"Hobbes beschreibt den Naturzustand als Krieg aller gegen alle. Menschen geben Freiheit f\u00FCr Sicherheit ab. Rechtfertigung des starken Staates."},{"Titel":"Versuch \u00FCber den menschlichen Verstand","Autor":"John Locke","Preis":13.80,"Erscheinungsjahr":1690,"Seiten":450,"Beschreibung":"Locke lehrt, der Geist sei bei der Geburt ein \u0027leeres Blatt\u0027. Alle Erkenntnis kommt aus Erfahrung. Grundlage des Empirismus."},{"Titel":"Kritik der reinen Vernunft","Autor":"Immanuel Kant","Preis":22.90,"Erscheinungsjahr":1781,"Seiten":800,"Beschreibung":"Untersucht, wie und was der Mensch \u00FCberhaupt erkennen kann.  Stellt die \u201Ekopernikanische Wende\u201C der Erkenntnistheorie auf: Die Welt erscheint uns nach Formen der Anschauung und Kategorien des Verstandes. Grenzen der Vernunft werden aufgezeigt."},{"Titel":"Grundlegung zur Metaphysik der Sitten","Autor":"Immanuel Kant","Preis":8.50,"Erscheinungsjahr":1785,"Seiten":120,"Beschreibung":"Begr\u00FCndet die Pflichtethik mit dem kategorischen Imperativ.  Handeln soll aus Pflicht geschehen, nicht aus Neigung. Moralische Gesetze gelten unabh\u00E4ngig von Zwecken."},{"Titel":"Ph\u00E4nomenologie des Geistes","Autor":"Georg Wilhelm Friedrich Hegel","Preis":19.95,"Erscheinungsjahr":1807,"Seiten":720,"Beschreibung":"Beschreibt die Entwicklung des Bewusstseins vom unmittelbaren Erleben bis zur absoluten Erkenntnis. Zentrale Motive: Dialektik, Anerkennungskampf (Herr-Knecht-Dialektik), Aufhebung."},{"Titel":"Die Welt als Wille und Vorstellung","Autor":"Arthur Schopenhauer","Preis":18.00,"Erscheinungsjahr":1818,"Seiten":900,"Beschreibung":"Die Welt ist zweifach: als Wille (blinde Triebkraft) und als Vorstellung (Erscheinung). Das Leiden entspringt dem Willen, Befreiung gelingt durch Kunst, Askese oder Entsagung."},{"Titel":"Das Kapital","Autor":"Karl Marx","Preis":24.90,"Erscheinungsjahr":1867,"Seiten":1000,"Beschreibung":"Analyse der kapitalistischen Wirtschaftsform. Arbeit wird zur Ware, der Mehrwert wird vom Kapitalisten angeeignet. Kritik der Warengesellschaft und ihrer Entfremdung."},{"Titel":"Jenseits von Gut und B\u00F6se","Autor":"Friedrich Nietzsche","Preis":10.90,"Erscheinungsjahr":1886,"Seiten":250,"Beschreibung":"Kritik der herk\u00F6mmlichen Moral als \u201EHerdenmoral\u201C. Pl\u00E4doyer f\u00FCr eine Umwertung aller Werte. Der \u00DCbermensch schafft eigene Werte jenseits von Gut und B\u00F6se."},{"Titel":"Die Genealogie der Moral","Autor":"Friedrich Nietzsche","Preis":9.99,"Erscheinungsjahr":1887,"Seiten":200,"Beschreibung":"Untersucht die Herkunft der moralischen Begriffe. Unterscheidet zwischen \u201Eadeliger\u201C und \u201Epriesterlicher\u201C Moral. Moral entsteht aus Ressentiment und Machtwillen."},{"Titel":"Das Sein und das Nichts","Autor":"Jean-Paul Sartre","Preis":21.00,"Erscheinungsjahr":1943,"Seiten":750,"Beschreibung":"Fundament des Existenzialismus. Das menschliche Sein ist \u201Ezur Freiheit verdammt\u201C. Es definiert sich durch Handeln, nicht durch Wesen."},{"Titel":"Das Gesellschaftsvertrag","Autor":"Jean-Jacques Rousseau","Preis":11.50,"Erscheinungsjahr":1762,"Seiten":220,"Beschreibung":"Der Staat entsteht durch einen freiwilligen Vertrag.  Die Volkssouver\u00E4nit\u00E4t ist unteilbar. \u201EDer Mensch ist frei, und \u00FCberall ist er in Ketten.\u201C"},{"Titel":"Vom Geist der Gesetze","Autor":"Charles de Montesquieu","Preis":17.00,"Erscheinungsjahr":1748,"Seiten":600,"Beschreibung":"Pl\u00E4diert f\u00FCr die Gewaltenteilung (Exekutive, Legislative, Judikative). Untersucht, wie politische Systeme durch Klima, Sitten und Gesetze gepr\u00E4gt werden."},{"Titel":"Traktat \u00FCber die menschliche Natur","Autor":"David Hume","Preis":15.90,"Erscheinungsjahr":1740,"Seiten":550,"Beschreibung":"Der Verstand basiert auf Erfahrung und Gewohnheit.  Kausalit\u00E4t ist keine objektive Notwendigkeit, sondern Gewohnheit des Denkens. \u201EAus Sein folgt nicht Sollen.\u201C"},{"Titel":"Encheiridion","Autor":"Epiktet","Preis":7.95,"Erscheinungsjahr":100,"Seiten":100,"Beschreibung":"Praktische Anleitung zur stoischen Lebensf\u00FChrung.  Unterscheidet zwischen Dingen, die in unserer Macht liegen (Urteile, W\u00FCnsche), und Dingen, die es nicht sind (Gesundheit, Reichtum). "},{"Titel":"Metaphysik","Autor":"Aristoteles","Preis":13.50,"Erscheinungsjahr":-350,"Seiten":300,"Beschreibung":"Untersuchung des Seienden als solchem. Fragt nach den ersten Ursachen und Prinzipien. Einf\u00FChrung der vier Ursachen (stofflich, formal, wirksam, final)."},{"Titel":"\u00DCber die Natur","Autor":"Heraklit","Preis":8.90,"Erscheinungsjahr":-500,"Seiten":80,"Beschreibung":"Alles flie\u00DFt (\u201Epanta rhei\u201C), nichts bleibt gleich.  Die Welt ist ein Spannungsfeld von Gegens\u00E4tzen, die durch das Logos verbunden sind."},{"Titel":"Confessiones","Autor":"Augustinus von Hippo","Preis":12.00,"Erscheinungsjahr":400,"Seiten":400,"Beschreibung":"Autobiographisches Werk \u00FCber den Weg zu Gott.  Kombiniert pers\u00F6nliche Beichte mit philosophischer Reflexion \u00FCber Zeit, Erinnerung und Gnade."},{"Titel":"Summa theologica","Autor":"Thomas von Aquin","Preis":25.00,"Erscheinungsjahr":1273,"Seiten":1200,"Beschreibung":"Systematische Darstellung der christlichen Theologie.  Verbindet Glaube und Vernunft. Ber\u00FChmt f\u00FCr die f\u00FCnf Beweise f\u00FCr die Existenz Gottes."},{"Titel":"Trost der Philosophie","Autor":"Bo\u00EBthius","Preis":9.50,"Erscheinungsjahr":525,"Seiten":180,"Beschreibung":"Im Gef\u00E4ngnis verfasst, sucht Trost in der Philosophie.  Behandelt Schicksal, Freiheit, Gl\u00FCck und die wahre Natur des Guten."},{"Titel":"Utopia","Autor":"Thomas Morus","Preis":10.50,"Erscheinungsjahr":1516,"Seiten":240,"Beschreibung":"Beschreibt eine fiktive Inselgesellschaft ohne Privateigentum.  Kritik an den sozialen Missst\u00E4nden seiner Zeit. Ideal: Gemeinschaftliches Leben und religi\u00F6se Toleranz."},{"Titel":"Vita activa","Autor":"Hannah Arendt","Preis":16.80,"Erscheinungsjahr":1958,"Seiten":350,"Beschreibung":"Unterscheidet drei menschliche T\u00E4tigkeiten: Arbeit, Herstellen und Handeln. Kritik an der Entpolitisierung der Moderne. Das Handeln in der \u00D6ffentlichkeit ist zentral f\u00FCr die Freiheit."},{"Titel":"Der F\u00FCrst","Autor":"Niccol\u00F2 Machiavelli","Preis":8.99,"Erscheinungsjahr":1532,"Seiten":140,"Beschreibung":"Handbuch f\u00FCr politische Macht.  Empfiehlt, dass ein Herrscher, um Macht zu erlangen und zu behalten, auch unmoralisch handeln darf. \u201EDer Zweck heiligt die Mittel.\u201C"}]
+[
+    {
+        "Titel":"Politeia",
+        "Autor":"Platon",
+        "Preis":12.99,
+        "Erscheinungsjahr":-370,
+        "Seiten":320,
+        "Beschreibung":"Platon entwirft einen idealen Staat, regiert von Philosophen. Er untersucht Gerechtigkeit und die Seele. Ein Grundwerk der politischen Philosophie."
+    },
+
+    {
+        "Titel":"Nikomachische Ethik",
+        "Autor":"Aristoteles",
+        "Preis":14.50,
+        "Erscheinungsjahr":-350,
+        "Seiten":380,
+        "Beschreibung":"Aristoteles definiert das gute Leben als tugendhaftes Handeln. Das Ziel ist das Gl\u00FCck (Eudaimonia). Ein Klassiker der Tugendethik."
+    },
+    {
+        "Titel":"Meditationen \u00FCber die Erste Philosophie",
+        "Autor":"Ren\u00E9 Descartes",
+        "Preis":9.95,
+        "Erscheinungsjahr":1641,
+        "Seiten":120,
+        "Beschreibung":"Descartes zweifelt an allem, um sicheres Wissen zu finden. Er begr\u00FCndet das Ich durch \u0027Ich denke, also bin ich\u0027. Fundament der modernen Philosophie."
+    },
+    {
+        "Titel":"Leviathan",
+        "Autor":"Thomas Hobbes",
+        "Preis":16.00,
+        "Erscheinungsjahr":1651,
+        "Seiten":540,
+        "Beschreibung":"Hobbes beschreibt den Naturzustand als Krieg aller gegen alle. Menschen geben Freiheit f\u00FCr Sicherheit ab. Rechtfertigung des starken Staates."
+    },
+
+    {
+        "Titel":"Versuch \u00FCber den menschlichen Verstand",
+        "Autor":"John Locke",
+        "Preis":13.80,
+        "Erscheinungsjahr":1690,
+        "Seiten":450,
+        "Beschreibung":"Locke lehrt, der Geist sei bei der Geburt ein \u0027leeres Blatt\u0027. Alle Erkenntnis kommt aus Erfahrung. Grundlage des Empirismus."
+    },
+
+    {
+        "Titel":"Kritik der reinen Vernunft",
+        "Autor":"Immanuel Kant",
+        "Preis":22.90,
+        "Erscheinungsjahr":1781,
+        "Seiten":800,
+        "Beschreibung":"Untersucht, wie und was der Mensch \u00FCberhaupt erkennen kann.  Stellt die \u201Ekopernikanische Wende\u201C der Erkenntnistheorie auf: Die Welt erscheint uns nach Formen der Anschauung und Kategorien des Verstandes. Grenzen der Vernunft werden aufgezeigt."
+    },
+
+    {
+        "Titel":"Grundlegung zur Metaphysik der Sitten",
+        "Autor":"Immanuel Kant",
+        "Preis":8.50,
+        "Erscheinungsjahr":1785,
+        "Seiten":120,
+        "Beschreibung":"Begr\u00FCndet die Pflichtethik mit dem kategorischen Imperativ.  Handeln soll aus Pflicht geschehen, nicht aus Neigung. Moralische Gesetze gelten unabh\u00E4ngig von Zwecken."
+    },
+
+    {
+        "Titel":"Ph\u00E4nomenologie des Geistes",
+        "Autor":"Georg Wilhelm Friedrich Hegel",
+        "Preis":19.95,
+        "Erscheinungsjahr":1807,
+        "Seiten":720,
+        "Beschreibung":"Beschreibt die Entwicklung des Bewusstseins vom unmittelbaren Erleben bis zur absoluten Erkenntnis. Zentrale Motive: Dialektik, Anerkennungskampf (Herr-Knecht-Dialektik), Aufhebung."
+    },
+
+    {
+        "Titel":"Die Welt als Wille und Vorstellung",
+        "Autor":"Arthur Schopenhauer",
+        "Preis":18.00,
+        "Erscheinungsjahr":1818,
+        "Seiten":900,
+        "Beschreibung":"Die Welt ist zweifach: als Wille (blinde Triebkraft) und als Vorstellung (Erscheinung). Das Leiden entspringt dem Willen, Befreiung gelingt durch Kunst, Askese oder Entsagung."
+    },
+
+    {
+        "Titel":"Das Kapital",
+        "Autor":"Karl Marx",
+        "Preis":24.90,
+        "Erscheinungsjahr":1867,
+        "Seiten":1000,
+        "Beschreibung":"Analyse der kapitalistischen Wirtschaftsform. Arbeit wird zur Ware, der Mehrwert wird vom Kapitalisten angeeignet. Kritik der Warengesellschaft und ihrer Entfremdung."
+    },
+
+    {
+        "Titel":"Jenseits von Gut und B\u00F6se",
+        "Autor":"Friedrich Nietzsche",
+        "Preis":10.90,
+        "Erscheinungsjahr":1886,
+        "Seiten":250,
+        "Beschreibung":"Kritik der herk\u00F6mmlichen Moral als \u201EHerdenmoral\u201C. Pl\u00E4doyer f\u00FCr eine Umwertung aller Werte. Der \u00DCbermensch schafft eigene Werte jenseits von Gut und B\u00F6se."
+    },
+
+    {
+        "Titel":"Die Genealogie der Moral",
+        "Autor":"Friedrich Nietzsche",
+        "Preis":9.99,
+        "Erscheinungsjahr":1887,
+        "Seiten":200,
+        "Beschreibung":"Untersucht die Herkunft der moralischen Begriffe. Unterscheidet zwischen \u201Eadeliger\u201C und \u201Epriesterlicher\u201C Moral. Moral entsteht aus Ressentiment und Machtwillen."
+    },
+
+    {
+        "Titel":"Das Sein und das Nichts",
+        "Autor":"Jean-Paul Sartre",
+        "Preis":21.00,
+        "Erscheinungsjahr":1943,
+        "Seiten":750,
+        "Beschreibung":"Fundament des Existenzialismus. Das menschliche Sein ist \u201Ezur Freiheit verdammt\u201C. Es definiert sich durch Handeln, nicht durch Wesen."
+    },
+
+    {
+        "Titel":"Das Gesellschaftsvertrag",
+        "Autor":"Jean-Jacques Rousseau",
+        "Preis":11.50,
+        "Erscheinungsjahr":1762,
+        "Seiten":220,
+        "Beschreibung":"Der Staat entsteht durch einen freiwilligen Vertrag.  Die Volkssouver\u00E4nit\u00E4t ist unteilbar. \u201EDer Mensch ist frei, und \u00FCberall ist er in Ketten.\u201C"
+    },
+
+    {
+        "Titel":"Vom Geist der Gesetze",
+        "Autor":"Charles de Montesquieu",
+        "Preis":17.00,
+        "Erscheinungsjahr":1748,
+        "Seiten":600,
+        "Beschreibung":"Pl\u00E4diert f\u00FCr die Gewaltenteilung (Exekutive, Legislative, Judikative). Untersucht, wie politische Systeme durch Klima, Sitten und Gesetze gepr\u00E4gt werden."
+    },
+
+    {
+        "Titel":"Traktat \u00FCber die menschliche Natur",
+        "Autor":"David Hume",
+        "Preis":15.90,
+        "Erscheinungsjahr":1740,
+        "Seiten":550,
+        "Beschreibung":"Der Verstand basiert auf Erfahrung und Gewohnheit.  Kausalit\u00E4t ist keine objektive Notwendigkeit, sondern Gewohnheit des Denkens. \u201EAus Sein folgt nicht Sollen.\u201C"
+    },
+
+    {
+        "Titel":"Encheiridion",
+        "Autor":"Epiktet",
+        "Preis":7.95,
+        "Erscheinungsjahr":100,
+        "Seiten":100,
+        "Beschreibung":"Praktische Anleitung zur stoischen Lebensf\u00FChrung.  Unterscheidet zwischen Dingen, die in unserer Macht liegen (Urteile, W\u00FCnsche), und Dingen, die es nicht sind (Gesundheit, Reichtum). "
+    },
+
+    {
+        "Titel":"Metaphysik",
+        "Autor":"Aristoteles",
+        "Preis":13.50,
+        "Erscheinungsjahr":-350,
+        "Seiten":300,
+        "Beschreibung":"Untersuchung des Seienden als solchem. Fragt nach den ersten Ursachen und Prinzipien. Einf\u00FChrung der vier Ursachen (stofflich, formal, wirksam, final)."
+    },
+
+    {
+        "Titel":"\u00DCber die Natur",
+        "Autor":"Heraklit",
+        "Preis":8.90,
+        "Erscheinungsjahr":-500,
+        "Seiten":80,
+        "Beschreibung":"Alles flie\u00DFt (\u201Epanta rhei\u201C), nichts bleibt gleich.  Die Welt ist ein Spannungsfeld von Gegens\u00E4tzen, die durch das Logos verbunden sind."
+    },
+
+    {
+        "Titel":"Confessiones",
+        "Autor":"Augustinus von Hippo",
+        "Preis":12.00,
+        "Erscheinungsjahr":400,
+        "Seiten":400,
+        "Beschreibung":"Autobiographisches Werk \u00FCber den Weg zu Gott.  Kombiniert pers\u00F6nliche Beichte mit philosophischer Reflexion \u00FCber Zeit, Erinnerung und Gnade."
+    },
+
+    {
+        "Titel":"Summa theologica",
+        "Autor":"Thomas von Aquin",
+        "Preis":25.00,
+        "Erscheinungsjahr":1273,
+        "Seiten":1200,
+        "Beschreibung":"Systematische Darstellung der christlichen Theologie.  Verbindet Glaube und Vernunft. Ber\u00FChmt f\u00FCr die f\u00FCnf Beweise f\u00FCr die Existenz Gottes."
+    },
+
+    {
+        "Titel":"Trost der Philosophie",
+        "Autor":"Bo\u00EBthius",
+        "Preis":9.50,
+        "Erscheinungsjahr":525,
+        "Seiten":180,
+        "Beschreibung":"Im Gef\u00E4ngnis verfasst, sucht Trost in der Philosophie.  Behandelt Schicksal, Freiheit, Gl\u00FCck und die wahre Natur des Guten."
+    },
+
+    {
+        "Titel":"Utopia",
+        "Autor":"Thomas Morus",
+        "Preis":10.50,
+        "Erscheinungsjahr":1516,
+        "Seiten":240,
+        "Beschreibung":"Beschreibt eine fiktive Inselgesellschaft ohne Privateigentum.  Kritik an den sozialen Missst\u00E4nden seiner Zeit. Ideal: Gemeinschaftliches Leben und religi\u00F6se Toleranz."
+    },
+
+    {
+        "Titel":"Vita activa",
+        "Autor":"Hannah Arendt",
+        "Preis":16.80,
+        "Erscheinungsjahr":1958,
+        "Seiten":350,
+        "Beschreibung":"Unterscheidet drei menschliche T\u00E4tigkeiten: Arbeit, Herstellen und Handeln. Kritik an der Entpolitisierung der Moderne. Das Handeln in der \u00D6ffentlichkeit ist zentral f\u00FCr die Freiheit."
+    },
+
+    {
+        "Titel":"Der F\u00FCrst",
+        "Autor":"Niccol\u00F2 Machiavelli",
+        "Preis":8.99,
+        "Erscheinungsjahr":1532,
+        "Seiten":140,
+        "Beschreibung":"Handbuch f\u00FCr politische Macht.  Empfiehlt, dass ein Herrscher, um Macht zu erlangen und zu behalten, auch unmoralisch handeln darf. \u201EDer Zweck heiligt die Mittel.\u201C"
+    },
+    {
+        "Titel":"Die Kunst des Krieges",
+        "Autor":"Sunzi",
+        "Preis":11.00,
+        "Erscheinungsjahr":-500,
+        "Seiten":150,
+        "Beschreibung":"Strategische Prinzipien f\u00FCr milit\u00E4rische Konflikte. Betonung von List, Flexibilit\u00E4t und der Vermeidung von direkter Konfrontation. Einflussreich in Milit\u00E4r- und Managementtheorien."
+    },
+    {
+        "Titel":"Die Ordnung der Dinge",
+        "Autor":"Michel Foucault",
+        "Preis":14.50,
+        "Erscheinungsjahr":1966,
+        "Seiten":400,
+        "Beschreibung":"Untersucht die historischen Bedingungen der Wissensproduktion. Analysiert die Episteme, die die Denkweisen einer Epoche bestimmt. Kritik an der Vorstellung von Fortschritt."
+    },
+    {
+        "Titel":"Sein und Zeit",
+        "Autor":"Martin Heidegger",
+        "Preis":23.50,
+        "Erscheinungsjahr":1927,
+        "Seiten":700,
+        "Beschreibung":"Fundamentale Ontologie des menschlichen Daseins. Untersucht Existenz, Zeitlichkeit und das Sein selbst. Einflussreich für moderne Philosophie."
+    },
+    {
+        "Titel":"Die Dialektik der Aufklärung",
+        "Autor":"Max Horkheimer",
+        "Preis":16.90,
+        "Erscheinungsjahr":1944,
+        "Seiten":300,
+        "Beschreibung":"Kritische Analyse der Aufklärung als Herrschaftsmittel. Rationalisierung führt zu neuen Formen der Herrschaft. Grundwerk der Kritischen Theorie."
+    },
+    {
+        "Titel":"Kritik der Politischen Ökonomie",
+        "Autor":"Karl Marx",
+        "Preis":19.99,
+        "Erscheinungsjahr":1859,
+        "Seiten":250,
+        "Beschreibung":"Analyse der kapitalistischen Produktionsweise. Untersuchung von Waren, Geld und Kapital. Grundlage für marxistische Theorien."
+    },
+    {
+        "Titel":"Der Gesellschaftsvertrag und die politische Freiheit",
+        "Autor":"John Rawls",
+        "Preis":18.50,
+        "Erscheinungsjahr":1971,
+        "Seiten":600,
+        "Beschreibung":"Theorie der Gerechtigkeit als Fairness. Gedankenexperiment des Schleiers der Unwissenheit. Moderne liberale Gerechtigkeitstheorie."
+    },
+    {
+        "Titel":"Eine Abhandlung über die menschliche Natur",
+        "Autor":"David Hume",
+        "Preis":17.80,
+        "Erscheinungsjahr":1739,
+        "Seiten":500,
+        "Beschreibung":"Gründliche Untersuchung der Natur des menschlichen Verstandes. Skeptizismus gegenüber Metaphysik. Grundwerk des empiristischen Denkens."
+    },
+    {
+        "Titel":"Die Kritik der praktischen Vernunft",
+        "Autor":"Immanuel Kant",
+        "Preis":20.00,
+        "Erscheinungsjahr":1788,
+        "Seiten":250,
+        "Beschreibung":"Untersuchung der moralischen Vernunft. Kategorischer Imperativ als Prinzip der Ethik. Autonomie als Grundlage der Moral."
+    },
+    {
+        "Titel":"Prolegomena zu einer jeden künftigen Metaphysik",
+        "Autor":"Immanuel Kant",
+        "Preis":12.50,
+        "Erscheinungsjahr":1783,
+        "Seiten":180,
+        "Beschreibung":"Zugänglichere Darstellung der Kritik der reinen Vernunft. Zusammenfassung von Kants kritischer Philosophie."
+    },
+    {
+        "Titel":"Wissenschaft der Logik",
+        "Autor":"Georg Wilhelm Friedrich Hegel",
+        "Preis":21.50,
+        "Erscheinungsjahr":1812,
+        "Seiten":650,
+        "Beschreibung":"Hegels dialektische Logik. Unterscheidung zwischen formaler und spekulativer Logik. Grundtext des deutschen Idealismus."
+    },
+    {
+        "Titel":"Enzyklopädie der philosophischen Wissenschaften",
+        "Autor":"Georg Wilhelm Friedrich Hegel",
+        "Preis":24.00,
+        "Erscheinungsjahr":1817,
+        "Seiten":700,
+        "Beschreibung":"Systematische Darstellung von Logik, Naturphilosophie und Geistesphilosophie. Überblick über Hegels gesamtes philosophisches System."
+    },
+    {
+        "Titel":"Die Welt als Wille und Vorstellung - Ergänzungen",
+        "Autor":"Arthur Schopenhauer",
+        "Preis":19.50,
+        "Erscheinungsjahr":1844,
+        "Seiten":550,
+        "Beschreibung":"Ergänzungen zu Schopenhauers Hauptwerk. Vertiefung der Willensprilosophie und Metaphysik."
+    },
+    {
+        "Titel":"Parerga und Paralipomena",
+        "Autor":"Arthur Schopenhauer",
+        "Preis":17.90,
+        "Erscheinungsjahr":1851,
+        "Seiten":400,
+        "Beschreibung":"Sammlung philosophischer Essays. Behandelt verschiedene Themen von Ethik bis Ästhetik."
+    },
+    {
+        "Titel":"Die deutsche Ideologie",
+        "Autor":"Karl Marx",
+        "Preis":15.50,
+        "Erscheinungsjahr":1845,
+        "Seiten":220,
+        "Beschreibung":"Kritik des deutschen Idealismus. Entwicklung der materialistischen Geschichtsauffassung."
+    },
+    {
+        "Titel":"Der heilige Bund",
+        "Autor":"Friedrich Nietzsche",
+        "Preis":10.00,
+        "Erscheinungsjahr":1900,
+        "Seiten":120,
+        "Beschreibung":"Philosophische Reflexionen über Werte und Moral. Kritik traditioneller Moralsysteme."
+    },
+    {
+        "Titel":"Also sprach Zarathustra",
+        "Autor":"Friedrich Nietzsche",
+        "Preis":13.99,
+        "Erscheinungsjahr":1883,
+        "Seiten":450,
+        "Beschreibung":"Philosophischer Roman über den Übermensch und die Ewige Wiederkehr. Nietzsche's literarische Meisterwerk."
+    },
+    {
+        "Titel":"Der Antichrist",
+        "Autor":"Friedrich Nietzsche",
+        "Preis":9.50,
+        "Erscheinungsjahr":1895,
+        "Seiten":150,
+        "Beschreibung":"Polemische Kritik des Christentums. Nietzsche argumentiert für eine Umwertung aller Werte."
+    },
+    {
+        "Titel":"Die Menschheit in der Falle der Geschichte",
+        "Autor":"Jean-Paul Sartre",
+        "Preis":14.80,
+        "Erscheinungsjahr":1960,
+        "Seiten":200,
+        "Beschreibung":"Existentialistische Analyse der menschlichen Kondition. Freiheit und Verantwortung als zentrale Themen."
+    },
+    {
+        "Titel":"Philosophie der Freiheit",
+        "Autor":"Jean-Paul Sartre",
+        "Preis":15.50,
+        "Erscheinungsjahr":1943,
+        "Seiten":380,
+        "Beschreibung":"Explorations der menschlichen Freiheit im Existentialismus. Wir sind zur Freiheit verdammt."
+    },
+    {
+        "Titel":"Diskurs über die Ungleichheit",
+        "Autor":"Jean-Jacques Rousseau",
+        "Preis":10.50,
+        "Erscheinungsjahr":1754,
+        "Seiten":200,
+        "Beschreibung":"Analyse der Entstehung von Ungleichheit in der menschlichen Gesellschaft. Kritik am Privateigentum."
+    },
+    {
+        "Titel":"Emile oder Über die Erziehung",
+        "Autor":"Jean-Jacques Rousseau",
+        "Preis":14.00,
+        "Erscheinungsjahr":1762,
+        "Seiten":500,
+        "Beschreibung":"Pädagogischer Roman über natürliche Erziehung. Einflussreich für Reformpädagogik und Bildungsphilosophie."
+    },
+    {
+        "Titel":"Politische Schriften",
+        "Autor":"Charles de Montesquieu",
+        "Preis":16.50,
+        "Erscheinungsjahr":1748,
+        "Seiten":450,
+        "Beschreibung":"Sammlung von Montesquieus Werken über Politik und Macht. Grundlagen modernen politischen Denkens."
+    },
+    {
+        "Titel":"Untersuchung über den Verstand",
+        "Autor":"David Hume",
+        "Preis":11.90,
+        "Erscheinungsjahr":1748,
+        "Seiten":180,
+        "Beschreibung":"Philosophische Essaysammlung. Behandelt Kausalität, Glaube und Vernunft."
+    },
+    {
+        "Titel":"Dialoge über natürliche Religion",
+        "Autor":"David Hume",
+        "Preis":12.50,
+        "Erscheinungsjahr":1779,
+        "Seiten":150,
+        "Beschreibung":"Kritische Untersuchung des Gottsbeweises durch Dialoge. Klassischer Text der Religionskritik."
+    },
+    {
+        "Titel":"Die Lehren von Marcus Aurelius",
+        "Autor":"Marcus Aurelius",
+        "Preis":11.00,
+        "Erscheinungsjahr":170,
+        "Seiten":300,
+        "Beschreibung":"Persönliche stoische Reflexionen eines römischen Kaisers. Pflichtenethik und Selbstdisziplin."
+    },
+    {
+        "Titel":"Sokrates und die junge Athen",
+        "Autor":"Xenophon",
+        "Preis":13.50,
+        "Erscheinungsjahr":-385,
+        "Seiten":350,
+        "Beschreibung":"Biographische Darstellung des Lebens von Sokrates. Wichtige historische Quelle über den Philosophen."
+    },
+    {
+        "Titel":"Apologie des Sokrates",
+        "Autor":"Platon",
+        "Preis":8.50,
+        "Erscheinungsjahr":-380,
+        "Seiten":80,
+        "Beschreibung":"Platons Darstellung der Verteidigungsrede des Sokrates vor Gericht. Einführung in Platonische Philosophie."
+    },
+    {
+        "Titel":"Phädon",
+        "Autor":"Platon",
+        "Preis":9.50,
+        "Erscheinungsjahr":-380,
+        "Seiten":100,
+        "Beschreibung":"Dialog über die Unsterblichkeit der Seele. Darstellung von Sokrates' letzten Stunden."
+    },
+    {
+        "Titel":"Parmenides",
+        "Autor":"Platon",
+        "Preis":10.00,
+        "Erscheinungsjahr":-370,
+        "Seiten":150,
+        "Beschreibung":"Dialektischer Dialog über das Sein und das Eine. Komplexe philosophische Untersuchung."
+    },
+    {
+        "Titel":"Timaios",
+        "Autor":"Platon",
+        "Preis":11.50,
+        "Erscheinungsjahr":-360,
+        "Seiten":180,
+        "Beschreibung":"Kosmologischer Dialog über die Entstehung der Welt. Pythagoräische und physikalische Ideen."
+    },
+    {
+        "Titel":"Organon",
+        "Autor":"Aristoteles",
+        "Preis":15.00,
+        "Erscheinungsjahr":-350,
+        "Seiten":400,
+        "Beschreibung":"Sammlung von Aristoteles' logischen Werken. Grundlagen der formalen Logik und Syllogistik."
+    },
+    {
+        "Titel":"Physik",
+        "Autor":"Aristoteles",
+        "Preis":14.50,
+        "Erscheinungsjahr":-350,
+        "Seiten":380,
+        "Beschreibung":"Untersuchung der Natur und ihrer Ursachen. Aristotelische Physik und Bewegungslehre."
+    },
+    {
+        "Titel":"Rhetorik",
+        "Autor":"Aristoteles",
+        "Preis":12.00,
+        "Erscheinungsjahr":-350,
+        "Seiten":300,
+        "Beschreibung":"Lehre der Überzeugung und Rede. Klassisches Werk über Rhetorik und Argumentation."
+    },
+    {
+        "Titel":"Poetik",
+        "Autor":"Aristoteles",
+        "Preis":10.50,
+        "Erscheinungsjahr":-350,
+        "Seiten":120,
+        "Beschreibung":"Theorie der Dichtung und Drama. Grundlagen der Ästhetik und Literaturtheorie."
+    },
+    {
+        "Titel":"Analytiken",
+        "Autor":"Aristoteles",
+        "Preis":13.00,
+        "Erscheinungsjahr":-350,
+        "Seiten":250,
+        "Beschreibung":"Werke über Logik und Argumentation. Entwicklung der Syllogismuslehre."
+    },
+    {
+        "Titel":"Meditationen",
+        "Autor":"René Descartes",
+        "Preis":9.99,
+        "Erscheinungsjahr":1641,
+        "Seiten":130,
+        "Beschreibung":"Systematisches Zweifeln zur Erlangung sicheren Wissens. Grundlage der modernen Philosophie."
+    },
+    {
+        "Titel":"Abhandlung über die Methode",
+        "Autor":"René Descartes",
+        "Preis":8.90,
+        "Erscheinungsjahr":1637,
+        "Seiten":80,
+        "Beschreibung":"Darstellung von Descartes' philosophischer Methode. Vernunft und systematisches Denken."
+    },
+    {
+        "Titel":"Licht und Materie",
+        "Autor":"Thomas Hobbes",
+        "Preis":14.50,
+        "Erscheinungsjahr":1652,
+        "Seiten":200,
+        "Beschreibung":"Philosophische Untersuchung von Licht und Materie. Materiale Ontologie."
+    },
+    {
+        "Titel":"Elements of Law",
+        "Autor":"Thomas Hobbes",
+        "Preis":13.00,
+        "Erscheinungsjahr":1640,
+        "Seiten":220,
+        "Beschreibung":"Frühe politische Philosophie von Hobbes. Grundlagen der Staatstheorie."
+    },
+    {
+        "Titel":"Ein Brief über die Toleranz",
+        "Autor":"John Locke",
+        "Preis":9.50,
+        "Erscheinungsjahr":1689,
+        "Seiten":100,
+        "Beschreibung":"Plädoyer für religiöse Toleranz. Wichtiger Text zur Religionsfreiheit und Aufklärung."
+    },
+    {
+        "Titel":"Zwei Abhandlungen über die Regierung",
+        "Autor":"John Locke",
+        "Preis":11.50,
+        "Erscheinungsjahr":1689,
+        "Seiten":280,
+        "Beschreibung":"Begründung der liberalen Staatstheorie. Naturrechte und Gewaltenteilung."
+    },
+    {
+        "Titel":"Gedanken zur Erziehung",
+        "Autor":"John Locke",
+        "Preis":10.50,
+        "Erscheinungsjahr":1693,
+        "Seiten":200,
+        "Beschreibung":"Pädagogische Werke von Locke. Naturgemäße Erziehung und Bildung."
+    },
+    {
+        "Titel":"Die Kritik der Urteilskraft",
+        "Autor":"Immanuel Kant",
+        "Preis":21.00,
+        "Erscheinungsjahr":1790,
+        "Seiten":550,
+        "Beschreibung":"Kantische Ästhetik und Teleologie. Schönheit und Zweckmäßigkeit ohne Zweck."
+    },
+    {
+        "Titel":"Metaphysik der Sitten",
+        "Autor":"Immanuel Kant",
+        "Preis":19.50,
+        "Erscheinungsjahr":1797,
+        "Seiten":400,
+        "Beschreibung":"Systematische Darstellung von Ethik und Recht. Pflichtethik und rechtliche Prinzipien."
+    },
+    {
+        "Titel":"Wozu Philosophen",
+        "Autor":"Martin Heidegger",
+        "Preis":11.00,
+        "Erscheinungsjahr":1954,
+        "Seiten":150,
+        "Beschreibung":"Vorträge über die Aufgabe der Philosophie in der modernen Welt. Kritik der Technik."
+    },
+    {
+        "Titel":"Grundprobleme der Phänomenologie",
+        "Autor":"Martin Heidegger",
+        "Preis":18.50,
+        "Erscheinungsjahr":1975,
+        "Seiten":400,
+        "Beschreibung":"Vorlesungen über fundamentale Probleme der Phänomenologie. Weitentwicklung von Heideggers Ontologie."
+    },
+    {
+        "Titel":"Dialektische Logik",
+        "Autor":"Klaus Holzkamp",
+        "Preis":16.00,
+        "Erscheinungsjahr":1983,
+        "Seiten":350,
+        "Beschreibung":"Entwicklung der marxistischen Dialektik. Kritische Psychologie."
+    },
+    {
+        "Titel":"Negationen",
+        "Autor":"Herbert Marcuse",
+        "Preis":15.50,
+        "Erscheinungsjahr":1968,
+        "Seiten":300,
+        "Beschreibung":"Essaysammlung von Marcuse. Kritik der eindimensionalen Gesellschaft."
+    },
+    {
+        "Titel":"Vernunft und Revolution",
+        "Autor":"Herbert Marcuse",
+        "Preis":17.00,
+        "Erscheinungsjahr":1954,
+        "Seiten":400,
+        "Beschreibung":"Hegels Dialektik und Theorie. Marxistische Interpretation der Hegelianischen Philosophie."
+    },
+    {
+        "Titel":"Der Mythos von Sisyphos",
+        "Autor":"Albert Camus",
+        "Preis":12.00,
+        "Erscheinungsjahr":1942,
+        "Seiten":140,
+        "Beschreibung":"Philosophisches Essay über das Absurde. Sinn und Lebensbejahung angesichts von Absurdität."
+    },
+    {
+        "Titel":"Die Pest",
+        "Autor":"Albert Camus",
+        "Preis":14.50,
+        "Erscheinungsjahr":1947,
+        "Seiten":400,
+        "Beschreibung":"Philosophischer Roman über menschliche Solidarität. Allegorische Behandlung von Leid und Hoffnung."
+    }
+]
