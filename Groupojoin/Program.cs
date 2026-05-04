@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Common;
 using System.Text;
 
 namespace Groupojoin
@@ -90,6 +91,7 @@ namespace Groupojoin
                     {
                         DepartmentId = x.DepartmentId,
                         Name = x.Name,
+                        ID = x.ID
                     })
                 });
 
@@ -241,7 +243,9 @@ namespace Groupojoin
         {
             new Department { ID = 10, Name = "IT" },
             new Department { ID = 20, Name = "HR" },
-            new Department { ID = 30, Name = "Sales" }
+            new Department { ID = 30, Name = "Sales" },
+            new Department { ID = 40, Name = "Marketing" },
+            // new Department {ID=0,Name="Keine Abteilung"}
         };
         }
     }

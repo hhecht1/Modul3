@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Runtime.CompilerServices;
 using System.Text.Json;
 using System.Xml.Serialization;
 namespace Bücherliste
@@ -51,6 +52,24 @@ namespace Bücherliste
                     Console.WriteLine("\t" + iteminner.Erscheinungsjahr + " : " + iteminner.Titel +  " => " + iteminner.Autor);
                 } 
             }
+            Console.WriteLine("\n\n\n");
+            Console.WriteLine();
+            Console.WriteLine("++++++++++++++++++++++++++++++++++++++++");
+            Console.WriteLine("#########  Filterfunktion #########");
+
+            Console.WriteLine("Bitte geben Sie ein Stichwort ein, um die Bücher zu filtern:");
+            string stichwort = Console.ReadLine();
+            var result2 =bücherliste.Where(x => x.Beschreibung.Contains(stichwort));
+            Console.WriteLine("\n");
+            Console.WriteLine($"\nBücher, die das Stichwort '{stichwort}' in ihrer Beschreibung enthalten:\n");
+            foreach(var item in result2)            {
+                Console.WriteLine(item.Titel + " " + item.Autor + "\n" + " Beschreibung: " + " => " + item.Beschreibung);
+            }
+            if(result2.Count() == 0)
+            {
+                Console.WriteLine("Keine Bücher gefunden, die das Stichwort enthalten.");
+            }
+
         }
     }
 }
