@@ -16,6 +16,8 @@ namespace Bücherliste
         public string? Beschreibung { get; set; }
     }
 
+   
+
     internal class Programm
     {
         static void Main(string[] args)
@@ -52,6 +54,38 @@ namespace Bücherliste
                     Console.WriteLine("\t" + iteminner.Erscheinungsjahr + " : " + iteminner.Titel +  " => " + iteminner.Autor + " => Seitenanzahl: " + iteminner.Seiten);
                 } 
             }
+             bool running =true;
+             while (running)
+            {
+                Console.WriteLine("1 - Bücher anzeigen");
+                Console.WriteLine("2 - Bücher sortieren");
+                Console.WriteLine("3 - Bücher filtern");
+                Console.WriteLine("4 - Buch hinzufügen");
+                Console.WriteLine("5 - Buch löschen ");
+                Console.WriteLine("6 - Beenden");
+
+                string auswahl = Console.ReadLine();
+                switch(auswahl)
+                {
+                    case "1":
+                    break;
+                    case "2":
+                    break;
+                    case "3":
+                    break;
+                    case "4":
+                    break;
+                    case "5":
+                    break;
+                    case "6":
+                    running = false;
+                    break;
+                    default:
+                    Console.WriteLine("Ungültige Auswahl. Bitte versuchen Sie es erneut.");
+                    break;
+                }
+            }
+
             Console.WriteLine("\n\n\n");
             Console.WriteLine();
             Console.WriteLine("#########  Sortierung #########");

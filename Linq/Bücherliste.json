@@ -628,5 +628,614 @@
         "Erscheinungsjahr":1947,
         "Seiten":400,
         "Beschreibung":"Philosophischer Roman über menschliche Solidarität. Allegorische Behandlung von Leid und Hoffnung."
+    },
+    {
+        "Titel":"Sein und Zeit",
+        "Autor":"Martin Heidegger",
+        "Preis":28.00,
+        "Erscheinungsjahr":1927,
+        "Seiten":600,
+        "Beschreibung":"Fundamentale Ontologie und Existenzphilosophie. Das Sein wird durch das Dasein erschlossen."
+    },
+    {
+        "Titel":"Die Logik der Forschung",
+        "Autor":"Karl Popper",
+        "Preis":18.50,
+        "Erscheinungsjahr":1934,
+        "Seiten":480,
+        "Beschreibung":"Wissenschaftstheorie und das Falsifikationsprinzip. Kritischer Rationalismus als Methodologie."
+    },
+    {
+        "Titel":"Analytische Philosophie",
+        "Autor":"Ludwig Wittgenstein",
+        "Preis":16.00,
+        "Erscheinungsjahr":1953,
+        "Seiten":370,
+        "Beschreibung":"Sprachphilosophie und Bedeutung durch Gebrauch. Kritik an Wittgensteins früherem Tractatus."
+    },
+    {
+        "Titel":"Der Kreis der Erkenntnis",
+        "Autor":"Thomas Kuhn",
+        "Preis":17.95,
+        "Erscheinungsjahr":1962,
+        "Seiten":200,
+        "Beschreibung":"Paradigmenwechsel in der Wissenschaft. Geschichte der Wissenschaft durch revolutionäre Umbrüche."
+    },
+    {
+        "Titel":"Das System der Objekte",
+        "Autor":"Jean Baudrillard",
+        "Preis":15.00,
+        "Erscheinungsjahr":1968,
+        "Seiten":250,
+        "Beschreibung":"Kritik der Konsumgesellschaft und Warenästhetik. Semiotik der modernen Alltagskultur."
+    },
+    {
+        "Titel":"Grammatologie",
+        "Autor":"Jacques Derrida",
+        "Preis":26.00,
+        "Erscheinungsjahr":1967,
+        "Seiten":440,
+        "Beschreibung":"Dekonstruktion und Differenz. Kritik des logozentrischen Denkens der westlichen Philosophie."
+    },
+    {
+        "Titel":"Die Ordnung der Dinge",
+        "Autor":"Michel Foucault",
+        "Preis":24.95,
+        "Erscheinungsjahr":1966,
+        "Seiten":500,
+        "Beschreibung":"Archäologie des Wissens. Wie Gesellschaften ihr Wissen organisieren und strukturieren."
+    },
+    {
+        "Titel":"Differenz und Wiederholung",
+        "Autor":"Gilles Deleuze",
+        "Preis":22.00,
+        "Erscheinungsjahr":1968,
+        "Seiten":420,
+        "Beschreibung":"Ontologie der Differenz. Kritik der Repräsentation in der abendländischen Metaphysik."
+    },
+    {
+        "Titel":"Das Sein und das Nichts",
+        "Autor":"Jean-Paul Sartre",
+        "Preis":30.00,
+        "Erscheinungsjahr":1943,
+        "Seiten":800,
+        "Beschreibung":"Existentialismus und Freiheit. Die Existenz geht der Essenz voraus. Verantwortung und Authentizität."
+    },
+    {
+        "Titel":"Die Zweite Geschlechte",
+        "Autor":"Simone de Beauvoir",
+        "Preis":25.00,
+        "Erscheinungsjahr":1949,
+        "Seiten":900,
+        "Beschreibung":"Feministische Philosophie und die Konstruktion des Frauseins. Die Frage Frau als Existenzial."
+    },
+    {
+        "Titel":"Kritik der Dialektik",
+        "Autor":"Theodor Adorno",
+        "Preis":21.50,
+        "Erscheinungsjahr":1966,
+        "Seiten":350,
+        "Beschreibung":"Kritische Theorie der Aufklärung. Die Dialektik als Instrument der Warengesellschaft."
+    },
+    {
+        "Titel":"Das kapitalistische Unbewusste",
+        "Autor":"Mark Fisher",
+        "Preis":18.00,
+        "Erscheinungsjahr":2009,
+        "Seiten":160,
+        "Beschreibung":"Postmodernismus und kapitalistische Realisierung. Warum wir die Alternative nicht denken können."
+    },
+    {
+        "Titel":"Hyperrealität und Simulation",
+        "Autor":"Jean Baudrillard",
+        "Preis":19.00,
+        "Erscheinungsjahr":1981,
+        "Seiten":220,
+        "Beschreibung":"Die Simulacra ersetzen die Realität. Über das Verschwinden der Wirklichkeit in der Mediengesellschaft."
+    },
+    {
+        "Titel":"Technik und Wissenschaft als Ideologie",
+        "Autor":"Jürgen Habermas",
+        "Preis":15.50,
+        "Erscheinungsjahr":1968,
+        "Seiten":140,
+        "Beschreibung":"Technologiefolgenabschätzung und rationale Diskurse. Emanzipation durch kommunikative Handlung."
+    },
+    {
+        "Titel":"Die Ethik des Postmodernen",
+        "Autor":"Jean-Luc Nancy",
+        "Preis":17.00,
+        "Erscheinungsjahr":2000,
+        "Seiten":180,
+        "Beschreibung":"Moralität jenseits von Metaerzählungen. Ethik der Singularität in der fragmentierten Welt."
+    },
+    {
+        "Titel":"Das Böse denken",
+        "Autor":"Byung-Chul Han",
+        "Preis":16.50,
+        "Erscheinungsjahr":2010,
+        "Seiten":200,
+        "Beschreibung":"Philosophie des Bösen in der Leistungsgesellschaft. Negativität und das Unmögliche des Guten."
+    },
+    {
+        "Titel":"Müdigkeit und Zeichen",
+        "Autor":"Byung-Chul Han",
+        "Preis":14.00,
+        "Erscheinungsjahr":2012,
+        "Seiten":160,
+        "Beschreibung":"Burnout-Gesellschaft und Zukunftsblindheit. Die Zivilisationskrankheit der Dauererreichbarkeit."
+    },
+    {
+        "Titel":"Psychoanalyse und Gesellschaft",
+        "Autor":"Wilhelm Reich",
+        "Preis":19.50,
+        "Erscheinungsjahr":1930,
+        "Seiten":280,
+        "Beschreibung":"Orgontheorie und sexuelle Revolution. Befreiung durch Psychoanalyse als politisches Projekt."
+    },
+    {
+        "Titel":"Autopoiesis",
+        "Autor":"Niklas Luhmann",
+        "Preis":27.00,
+        "Erscheinungsjahr":1984,
+        "Seiten":560,
+        "Beschreibung":"Systemtheorie und selbstreferenzielle Systeme. Gesellschaft als autopoietisches Netzwerk."
+    },
+    {
+        "Titel":"Liebe als Passion",
+        "Autor":"Niklas Luhmann",
+        "Preis":17.50,
+        "Erscheinungsjahr":1982,
+        "Seiten":220,
+        "Beschreibung":"Systemtheoretische Analyse der romantischen Liebe. Evolution eines Kommunikationsmediums."
+    },
+    {
+        "Titel":"Gilles Deleuze und Felix Guattari",
+        "Autor":"A Thousand Plateaus",
+        "Preis":32.00,
+        "Erscheinungsjahr":1987,
+        "Seiten":700,
+        "Beschreibung":"Kapitalismus und Schizophrenie. Nomadologie gegen Sesshaftigkeit in Denken und Politik."
+    },
+    {
+        "Titel":"Das Unmögliche",
+        "Autor":"Alain Badiou",
+        "Preis":23.00,
+        "Erscheinungsjahr":1988,
+        "Seiten":400,
+        "Beschreibung":"Ontologie und Wahrheit. Das Ereignis als Unterbrecher der normalen Ordnung."
+    },
+    {
+        "Titel":"Ethik des Singulären",
+        "Autor":"Alain Badiou",
+        "Preis":20.50,
+        "Erscheinungsjahr":2003,
+        "Seiten":250,
+        "Beschreibung":"Treue zum Ereignis. Ethische Verantwortung in aporetischen Situationen."
+    },
+    {
+        "Titel":"Objektgerichtete Ontologie",
+        "Autor":"Graham Harman",
+        "Preis":24.00,
+        "Erscheinungsjahr":2011,
+        "Seiten":300,
+        "Beschreibung":"Objekte haben ihre eigene Realität. Kritik des Korrelationismus in der Philosophie."
+    },
+    {
+        "Titel":"Spekulativer Realismus",
+        "Autor":"Graham Harman",
+        "Preis":21.00,
+        "Erscheinungsjahr":2010,
+        "Seiten":280,
+        "Beschreibung":"Neue Metaphysik jenseits von Skeptizismus. Dinge als autonom von menschlicher Erkenntnis."
+    },
+    {
+        "Titel":"Quentin Meillassoux",
+        "Autor":"Nach der Endlichkeit",
+        "Preis":26.50,
+        "Erscheinungsjahr":2006,
+        "Seiten":280,
+        "Beschreibung":"Spekulative Materialismus und Kontingenz. Realismus gegen postmoderne Relativität."
+    },
+    {
+        "Titel":"Ontologie des Zukunft",
+        "Autor":"Bruno Latour",
+        "Preis":19.50,
+        "Erscheinungsjahr":1991,
+        "Seiten":350,
+        "Beschreibung":"Akteur-Netzwerk-Theorie. Hybrid-Welten aus Natur, Technik und Gesellschaft."
+    },
+    {
+        "Titel":"Politische Ökologie",
+        "Autor":"Bruno Latour",
+        "Preis":22.00,
+        "Erscheinungsjahr":2018,
+        "Seiten":280,
+        "Beschreibung":"Anthropozän und neue Kollektive. Gaia und die Möglichkeit einer kosmopolitischen Ordnung."
+    },
+    {
+        "Titel":"Graphen der Herrschaft",
+        "Autor":"Paolo Virno",
+        "Preis":18.50,
+        "Erscheinungsjahr":2004,
+        "Seiten":200,
+        "Beschreibung":"Arbeit und Sprache im Spätkapitalismus. Die Multitude als Subjekt der Befreiung."
+    },
+    {
+        "Titel":"Empire",
+        "Autor":"Toni Negri und Michael Hardt",
+        "Preis":28.00,
+        "Erscheinungsjahr":2000,
+        "Seiten":500,
+        "Beschreibung":"Globale Herrschaft ohne Zentrum. Biopolitik und Multitude gegen das Empire."
+    },
+    {
+        "Titel":"Multitude",
+        "Autor":"Toni Negri und Michael Hardt",
+        "Preis":26.50,
+        "Erscheinungsjahr":2004,
+        "Seiten":420,
+        "Beschreibung":"Krieg und Demokratie. Die Multitude als neue politische Subjektivität."
+    },
+    {
+        "Titel":"Immunitas",
+        "Autor":"Roberto Esposito",
+        "Preis":23.00,
+        "Erscheinungsjahr":2004,
+        "Seiten":240,
+        "Beschreibung":"Gemeinschaft und Biopolitik. Der Kampf zwischen communitas und immunitas."
+    },
+    {
+        "Titel":"Bios",
+        "Autor":"Giorgio Agamben",
+        "Preis":21.00,
+        "Erscheinungsjahr":1998,
+        "Seiten":280,
+        "Beschreibung":"Leben und Recht. Der homo sacer und die Logik der Souveränität."
+    },
+    {
+        "Titel":"Homo Sacer",
+        "Autor":"Giorgio Agamben",
+        "Preis":22.50,
+        "Erscheinungsjahr":1995,
+        "Seiten":300,
+        "Beschreibung":"Nacktes Leben und juridische Macht. Ausnahmezustand als normative Struktur."
+    },
+    {
+        "Titel":"Ausnahmezustand",
+        "Autor":"Giorgio Agamben",
+        "Preis":16.00,
+        "Erscheinungsjahr":2003,
+        "Seiten":120,
+        "Beschreibung":"Diktatur und Krise der Demokratie. Permanente Suspension der Ordnung."
+    },
+    {
+        "Titel":"Subjekt und Macht",
+        "Autor":"Michel Foucault",
+        "Preis":14.50,
+        "Erscheinungsjahr":1982,
+        "Seiten":200,
+        "Beschreibung":"Gouvernementalität und Biopolitik. Wie der Staat die Bevölkerung regiert."
+    },
+    {
+        "Titel":"Überwachen und Strafen",
+        "Autor":"Michel Foucault",
+        "Preis":26.00,
+        "Erscheinungsjahr":1975,
+        "Seiten":450,
+        "Beschreibung":"Panoptikum und Disziplinarmacht. Entstehung des modernen Gefängnissystems."
+    },
+    {
+        "Titel":"Die Geschichte der Sexualität",
+        "Autor":"Michel Foucault",
+        "Preis":24.00,
+        "Erscheinungsjahr":1976,
+        "Seiten":400,
+        "Beschreibung":"Biopolitik und Sexualität. Macht produziert Sexualität und Geschlecht."
+    },
+    {
+        "Titel":"Macht und Widerstand",
+        "Autor":"Antonio Gramsci",
+        "Preis":19.00,
+        "Erscheinungsjahr":1971,
+        "Seiten":350,
+        "Beschreibung":"Hegemonietheorie und kultureller Kampf. Wie Herrschaft durch Konsens stabilisiert wird."
+    },
+    {
+        "Titel":"Kulturelle Hegemonie",
+        "Autor":"Antonio Gramsci",
+        "Preis":17.50,
+        "Erscheinungsjahr":1971,
+        "Seiten":280,
+        "Beschreibung":"Intellektuelle und organische Intellektuelle. Kampf um Deutungsmacht in der Gesellschaft."
+    },
+    {
+        "Titel":"Der Gesellschaftsvertrag",
+        "Autor":"Jean-Jacques Rousseau",
+        "Preis":12.00,
+        "Erscheinungsjahr":1762,
+        "Seiten":280,
+        "Beschreibung":"Volkssouveränität und Gemeinwille. Politische Freiheit und Ungleichheit."
+    },
+    {
+        "Titel":"Emile oder über die Erziehung",
+        "Autor":"Jean-Jacques Rousseau",
+        "Preis":15.50,
+        "Erscheinungsjahr":1762,
+        "Seiten":500,
+        "Beschreibung":"Natürliche Erziehung und menschliche Entwicklung. Pädagogik der Natur."
+    },
+    {
+        "Titel":"Diskurs über Ungleichheit",
+        "Autor":"Jean-Jacques Rousseau",
+        "Preis":11.00,
+        "Erscheinungsjahr":1755,
+        "Seiten":200,
+        "Beschreibung":"Natur- und Kulturzustand. Wie Eigentum die Ungleichheit konstituiert."
+    },
+    {
+        "Titel":"Spinozas Gott",
+        "Autor":"Baruch Spinoza",
+        "Preis":20.00,
+        "Erscheinungsjahr":1677,
+        "Seiten":400,
+        "Beschreibung":"Pantheismus und Substanzmonismus. Natur und Verstand. Gott oder Natur."
+    },
+    {
+        "Titel":"Ethik bewiesen nach geometrischer Methode",
+        "Autor":"Baruch Spinoza",
+        "Preis":22.00,
+        "Erscheinungsjahr":1677,
+        "Seiten":350,
+        "Beschreibung":"Rationale Ethik und Affekte. Macht und Freude als Selbstverwirklichung."
+    },
+    {
+        "Titel":"Leibniz und die mathematische Monade",
+        "Autor":"Gottfried Wilhelm Leibniz",
+        "Preis":18.50,
+        "Erscheinungsjahr":1686,
+        "Seiten":250,
+        "Beschreibung":"Monadologie und präetablierte Harmonie. Metaphysik der Kontinuität."
+    },
+    {
+        "Titel":"Prolegomena zu einer zukünftigen Metaphysik",
+        "Autor":"Immanuel Kant",
+        "Preis":14.00,
+        "Erscheinungsjahr":1783,
+        "Seiten":180,
+        "Beschreibung":"Erklärung und Verteidigung der Kritik der reinen Vernunft. Analytisches und synthetisches Urteil."
+    },
+    {
+        "Titel":"Kritik der praktischen Vernunft",
+        "Autor":"Immanuel Kant",
+        "Preis":19.50,
+        "Erscheinungsjahr":1788,
+        "Seiten":300,
+        "Beschreibung":"Moralisches Handeln aus Pflicht. Freiheit und das moralische Gesetz."
+    },
+    {
+        "Titel":"Kritik der Urteilskraft",
+        "Autor":"Immanuel Kant",
+        "Preis":25.00,
+        "Erscheinungsjahr":1790,
+        "Seiten":450,
+        "Beschreibung":"Ästhetik und Teleologie. Die reflexive Urteilskraft verbindet Natur und Freiheit."
+    },
+    {
+        "Titel":"Wissenschaft der Logik",
+        "Autor":"Georg Wilhelm Friedrich Hegel",
+        "Preis":35.00,
+        "Erscheinungsjahr":1812,
+        "Seiten":800,
+        "Beschreibung":"Dialektische Logik und das absolute Wissen. Das Sein entwickelt sich zur Essenz."
+    },
+    {
+        "Titel":"Grundlinien der Philosophie des Rechts",
+        "Autor":"Georg Wilhelm Friedrich Hegel",
+        "Preis":26.00,
+        "Erscheinungsjahr":1820,
+        "Seiten":420,
+        "Beschreibung":"Staat und bürgerliche Gesellschaft. Recht als Verwirklichung der Freiheit."
+    },
+    {
+        "Titel":"Enzyklopädie der philosophischen Wissenschaften",
+        "Autor":"Georg Wilhelm Friedrich Hegel",
+        "Preis":28.00,
+        "Erscheinungsjahr":1817,
+        "Seiten":600,
+        "Beschreibung":"Systematische Philosophie von Logik über Natur zu Geist. Die Trinitätsbewegung."
+    },
+    {
+        "Titel":"Die deutsche Ideologie",
+        "Autor":"Karl Marx und Friedrich Engels",
+        "Preis":21.00,
+        "Erscheinungsjahr":1845,
+        "Seiten":320,
+        "Beschreibung":"Materialistische Geschichtsauffassung. Kritik des spekulativen Idealismus."
+    },
+    {
+        "Titel":"Das Kapital",
+        "Autor":"Karl Marx",
+        "Preis":45.00,
+        "Erscheinungsjahr":1867,
+        "Seiten":1200,
+        "Beschreibung":"Kritik der politischen Ökonomie. Werttheorie und Mehrwertextraktion."
+    },
+    {
+        "Titel":"Die heilige Familie",
+        "Autor":"Karl Marx und Friedrich Engels",
+        "Preis":16.00,
+        "Erscheinungsjahr":1844,
+        "Seiten":200,
+        "Beschreibung":"Kritik der Kritischen Kritik. Frühe Auseinandersetzung mit Bauer und den Hegelianern."
+    },
+    {
+        "Titel":"Über die Verschiedenheit der Rassen",
+        "Autor":"Johann Friedrich Blumenbach",
+        "Preis":22.00,
+        "Erscheinungsjahr":1775,
+        "Seiten":120,
+        "Beschreibung":"Frühe Rassentheorie. Klassifikation der Menschenrassen. Kritisch zu betrachten."
+    },
+    {
+        "Titel":"Phrenologie und Schädelform",
+        "Autor":"Franz Joseph Gall",
+        "Preis":18.00,
+        "Erscheinungsjahr":1810,
+        "Seiten":280,
+        "Beschreibung":"Pseudowissenschaftliche Hirn- und Charakter-Theorie. Historisches Interesse."
+    },
+    {
+        "Titel":"Die Abstammung des Menschen",
+        "Autor":"Charles Darwin",
+        "Preis":24.00,
+        "Erscheinungsjahr":1871,
+        "Seiten":500,
+        "Beschreibung":"Evolution und Selektion. Der Mensch aus dem Tierreich hervorgegangen."
+    },
+    {
+        "Titel":"Über die Entstehung der Arten",
+        "Autor":"Charles Darwin",
+        "Preis":19.50,
+        "Erscheinungsjahr":1859,
+        "Seiten":600,
+        "Beschreibung":"Evolutionäre Theorie und natürliche Auslese. Grundlage der modernen Biologie."
+    },
+    {
+        "Titel":"Eine Philosophie der Biologie",
+        "Autor":"David Hull",
+        "Preis":25.00,
+        "Erscheinungsjahr":1974,
+        "Seiten":300,
+        "Beschreibung":"Philosophie der Evolutionsbiologie. Evolution und Essentialismus."
+    },
+    {
+        "Titel":"Struktur wissenschaftlicher Revolutionen",
+        "Autor":"Thomas Kuhn",
+        "Preis":20.00,
+        "Erscheinungsjahr":1962,
+        "Seiten":220,
+        "Beschreibung":"Paradigmen und wissenschaftlicher Wandel. Normalwissenschaft und Krisen."
+    },
+    {
+        "Titel":"Erkenntnis und Interesse",
+        "Autor":"Jürgen Habermas",
+        "Preis":23.00,
+        "Erscheinungsjahr":1968,
+        "Preis":23.00,
+        "Seiten":350,
+        "Beschreibung":"Erkenntnistheoretische Grundlagen. Technisches, praktisches und emanzipatorisches Interesse."
+    },
+    {
+        "Titel":"Theorie des kommunikativen Handelns",
+        "Autor":"Jürgen Habermas",
+        "Preis":32.00,
+        "Erscheinungsjahr":1981,
+        "Seiten":700,
+        "Beschreibung":"Kommunikative Rationalität und Lebenswelt. Lifeworld und System."
+    },
+    {
+        "Titel":"Zwischen Naturalismus und Religion",
+        "Autor":"Jürgen Habermas",
+        "Preis":18.00,
+        "Erscheinungsjahr":2005,
+        "Seiten":280,
+        "Beschreibung":"Säkularisierung und religiöse Vielfalt. Der Platz der Religion in der modernen Gesellschaft."
+    },
+    {
+        "Titel":"Dekonstruktion des Logos",
+        "Autor":"Jacques Derrida",
+        "Preis":28.00,
+        "Erscheinungsjahr":1972,
+        "Seiten":380,
+        "Beschreibung":"Spur und différance. Dekonstruktion der westlichen Metaphysik."
+    },
+    {
+        "Titel":"Positionen",
+        "Autor":"Jacques Derrida",
+        "Preis":20.00,
+        "Erscheinungsjahr":1972,
+        "Seiten":160,
+        "Beschreibung":"Interviews zur Dekonstruktion. Strategie der Textanalyse."
+    },
+    {
+        "Titel":"Aporien und Gespenster",
+        "Autor":"Jacques Derrida",
+        "Preis":24.00,
+        "Erscheinungsjahr":1993,
+        "Seiten":220,
+        "Beschreibung":"Gerechtigkeit und das Unmögliche. Politische Philosophie der Dekonstruktion."
+    },
+    {
+        "Titel":"Die Mikrophysik der Macht",
+        "Autor":"Michel Foucault",
+        "Preis":16.50,
+        "Erscheinungsjahr":1977,
+        "Seiten":280,
+        "Beschreibung":"Lokale Machtbeziehungen und Widerstände. Macht nicht nur von oben."
+    },
+    {
+        "Titel":"Archäologie des Wissens",
+        "Autor":"Michel Foucault",
+        "Preis":22.00,
+        "Erscheinungsjahr":1969,
+        "Seiten":280,
+        "Beschreibung":"Methode zur Analyse von Diskursen. Diskursivität und historische Kontingenz."
+    },
+    {
+        "Titel":"Anti-Ödipus",
+        "Autor":"Gilles Deleuze und Felix Guattari",
+        "Preis":29.00,
+        "Erscheinungsjahr":1972,
+        "Seiten":500,
+        "Beschreibung":"Kapitalismus und Schizophrenie. Begierde und Produktion. Rhizom gegen Baum."
+    },
+    {
+        "Titel":"Kino 1 Die Bewegungs-Image",
+        "Autor":"Gilles Deleuze",
+        "Preis":26.00,
+        "Erscheinungsjahr":1983,
+        "Seiten":380,
+        "Beschreibung":"Semiotik des Films. Zeichen und Bewegung im Kino."
+    },
+    {
+        "Titel":"Logik der Sensation",
+        "Autor":"Gilles Deleuze",
+        "Preis":32.00,
+        "Erscheinungsjahr":1981,
+        "Seiten":280,
+        "Beschreibung":"Körper und Affekt. Bacon und die figurale Abstraktion."
+    },
+    {
+        "Titel":"Tausend Plateaus Kapitalismus und Schizophrenie 2",
+        "Autor":"Gilles Deleuze und Felix Guattari",
+        "Preis":35.00,
+        "Erscheinungsjahr":1980,
+        "Seiten":900,
+        "Beschreibung":"Körper ohne Organe. Deterritorialisierung und nomadisches Denken."
+    },
+    {
+        "Titel":"Wahrheit und Methode",
+        "Autor":"Hans-Georg Gadamer",
+        "Preis":28.50,
+        "Erscheinungsjahr":1960,
+        "Seiten":550,
+        "Beschreibung":"Philosophische Hermeneutik. Verstehen und Interpretation. Der hermeneutische Zirkel."
+    },
+    {
+        "Titel":"Kleine Schriften Band 1",
+        "Autor":"Hans-Georg Gadamer",
+        "Preis":22.00,
+        "Erscheinungsjahr":1967,
+        "Seiten":400,
+        "Beschreibung":"Aufsätze zur Philosophie. Klassische Texte und neuere Fragen."
+    },
+    {
+        "Titel":"Fundamentalontologie und Sprachanalytik",
+        "Autor":"Ludwig Wittgenstein",
+        "Preis":18.00,
+        "Erscheinungsjahr":1921,
+        "Seiten":300,
+        "Beschreibung":"Früher Wittgenstein und Tractatus Logico Philosophicus."
     }
 ]
