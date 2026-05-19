@@ -12,7 +12,7 @@ namespace Stoppuhr
 
         public static async Task Main(string[]args)
         {
-            Console.WriteLine("StopUhr: ");
+            Console.WriteLine("Stop Uhr: ");
             Console.WriteLine("S = Start");
             Console.WriteLine("L = Zwischenzeit");
             Console.WriteLine("Enter = Stop");
@@ -35,14 +35,15 @@ namespace Stoppuhr
                         if (key == ConsoleKey.L)
                             AddLap();
                     }
-                    task.Delay(50);
+                  await Task.Delay(100);    // Thread.Sleep() könnt ich einbauen ohne das ich ein await davorsetzen muss aber dann würde die Uhr nicht mehr so genau laufen, da der Thread blockiert ist. Mit Task.Delay kann ich die Uhr weiterlaufen lassen und trotzdem auf die Benutzereingaben reagieren.
 
                 }
 
                 await task;
             }
 
-            Console.WriteLine("Beendet. Die gemessene Zeit beträgt: " + stopwatch.Elapsed);
+            Console.WriteLine("Beendet. Die gemessene Zeit beträgt: " + stopwatch.Elapsed + laps);
+            // Console.WriteLine($"Zwischenzeiten: "  + string.Join(", ", laps.Select(l => l.ToString(@"hh\:mm\:ss\.fff"))));
         }
 
         public static async Task RunStopwatchAsync()
