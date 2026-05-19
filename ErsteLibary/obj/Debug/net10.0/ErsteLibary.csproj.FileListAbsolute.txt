@@ -9,3 +9,4 @@ C:\Users\helge12\Desktop\c#\Modul3\ErsteLibary\obj\Debug\net10.0\ErsteLibary.dll
 C:\Users\helge12\Desktop\c#\Modul3\ErsteLibary\obj\Debug\net10.0\refint\ErsteLibary.dll
 C:\Users\helge12\Desktop\c#\Modul3\ErsteLibary\obj\Debug\net10.0\ErsteLibary.pdb
 C:\Users\helge12\Desktop\c#\Modul3\ErsteLibary\obj\Debug\net10.0\ref\ErsteLibary.dll
+C:\Users\helge12\Desktop\c#\Modul3\ErsteLibary\obj\Debug\net10.0\ErsteLibary.sourcelink.json
