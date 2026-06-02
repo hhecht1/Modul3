@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErsteLibary", "ErsteLibary\ErsteLibary.csproj", "{D625F611-2D46-C4F2-6620-F36D883339EA}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app", "app\app.csproj", "{AD835511-44FE-4A61-B9AA-E653036BFCCE}"
 EndProject
 Global
@@ -17,18 +15,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D625F611-2D46-C4F2-6620-F36D883339EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D625F611-2D46-C4F2-6620-F36D883339EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D625F611-2D46-C4F2-6620-F36D883339EA}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{D625F611-2D46-C4F2-6620-F36D883339EA}.Debug|x64.Build.0 = Debug|Any CPU
-		{D625F611-2D46-C4F2-6620-F36D883339EA}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{D625F611-2D46-C4F2-6620-F36D883339EA}.Debug|x86.Build.0 = Debug|Any CPU
-		{D625F611-2D46-C4F2-6620-F36D883339EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D625F611-2D46-C4F2-6620-F36D883339EA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D625F611-2D46-C4F2-6620-F36D883339EA}.Release|x64.ActiveCfg = Release|Any CPU
-		{D625F611-2D46-C4F2-6620-F36D883339EA}.Release|x64.Build.0 = Release|Any CPU
-		{D625F611-2D46-C4F2-6620-F36D883339EA}.Release|x86.ActiveCfg = Release|Any CPU
-		{D625F611-2D46-C4F2-6620-F36D883339EA}.Release|x86.Build.0 = Release|Any CPU
 		{AD835511-44FE-4A61-B9AA-E653036BFCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{AD835511-44FE-4A61-B9AA-E653036BFCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD835511-44FE-4A61-B9AA-E653036BFCCE}.Debug|x64.ActiveCfg = Debug|Any CPU
